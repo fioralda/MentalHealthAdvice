@@ -1,0 +1,314 @@
+[
+  {
+    "dateOfSleep": "2020-12-19",
+    "duration": 26280000,
+    "efficiency": 100,
+    "endTime": "2020-12-19T08:38:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-19T01:20:00.000",
+          "level": "asleep",
+          "seconds": 26280
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 438
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30112270072,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 438,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-19T01:20:00.000",
+    "timeInBed": 438,
+    "type": "classic"
+  },
+  {
+    "dateOfSleep": "2020-12-18",
+    "duration": 30600000,
+    "efficiency": 100,
+    "endTime": "2020-12-18T10:30:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-18T02:00:00.000",
+          "level": "asleep",
+          "seconds": 30600
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 510
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30113263070,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 510,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-18T02:00:00.000",
+    "timeInBed": 510,
+    "type": "classic"
+  },
+  {
+    "dateOfSleep": "2020-12-17",
+    "duration": 32400000,
+    "efficiency": 100,
+    "endTime": "2020-12-17T09:00:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-17T00:00:00.000",
+          "level": "asleep",
+          "seconds": 32400
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 540
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30113996653,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 540,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-17T00:00:00.000",
+    "timeInBed": 540,
+    "type": "classic"
+  },
+  {
+    "dateOfSleep": "2020-12-16",
+    "duration": 29520000,
+    "efficiency": 100,
+    "endTime": "2020-12-16T09:42:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-16T01:30:00.000",
+          "level": "asleep",
+          "seconds": 29520
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 492
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30114353310,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 492,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-16T01:30:00.000",
+    "timeInBed": 492,
+    "type": "classic"
+  },
+  {
+    "dateOfSleep": "2020-12-15",
+    "duration": 22680000,
+    "efficiency": 100,
+    "endTime": "2020-12-15T08:48:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-15T02:30:00.000",
+          "level": "asleep",
+          "seconds": 22680
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 378
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30114280377,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 378,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-15T02:30:00.000",
+    "timeInBed": 378,
+    "type": "classic"
+  },
+  {
+    "dateOfSleep": "2020-12-14",
+    "duration": 33120000,
+    "efficiency": 100,
+    "endTime": "2020-12-14T08:12:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-13T23:00:00.000",
+          "level": "asleep",
+          "seconds": 33120
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 552
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30114434376,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 552,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-13T23:00:00.000",
+    "timeInBed": 552,
+    "type": "classic"
+  },
+  {
+    "dateOfSleep": "2020-12-13",
+    "duration": 26280000,
+    "efficiency": 100,
+    "endTime": "2020-12-13T08:18:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-13T01:00:00.000",
+          "level": "asleep",
+          "seconds": 26280
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 438
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30113323840,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 438,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-13T01:00:00.000",
+    "timeInBed": 438,
+    "type": "classic"
+  },
+  {
+    "dateOfSleep": "2020-12-12",
+    "duration": 25200000,
+    "efficiency": 100,
+    "endTime": "2020-12-12T07:00:00.000",
+    "infoCode": 0,
+    "isMainSleep": false,
+    "levels": {
+      "data": [
+        {
+          "dateTime": "2020-12-12T00:00:00.000",
+          "level": "asleep",
+          "seconds": 25200
+        }
+      ],
+      "summary": {
+        "asleep": {
+          "count": 0,
+          "minutes": 420
+        },
+        "awake": {
+          "count": 0,
+          "minutes": 0
+        },
+        "restless": {
+          "count": 0,
+          "minutes": 0
+        }
+      }
+    },
+    "logId": 30113729168,
+    "minutesAfterWakeup": 0,
+    "minutesAsleep": 420,
+    "minutesAwake": 0,
+    "minutesToFallAsleep": 0,
+    "startTime": "2020-12-12T00:00:00.000",
+    "timeInBed": 420,
+    "type": "classic"
+  }
+]

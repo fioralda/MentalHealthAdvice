@@ -1,0 +1,234 @@
+[
+  {
+    "dateTime": "2020-12-12",
+    "avarage": 93,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  },
+  {
+    "dateTime": "2020-12-13",
+    "avarage": 93,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  },
+  {
+    "dateTime": "2020-12-14",
+    "avarage": 93,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  },
+  {
+    "dateTime": "2020-12-15",
+    "avarage": 120,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  },
+  {
+    "dateTime": "2020-12-16",
+    "avarage": 101,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  },
+  {
+    "dateTime": "2020-12-17",
+    "avarage": 99,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  },
+  {
+    "dateTime": "2020-12-18",
+    "avarage": 130,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  },
+  {
+    "dateTime": "2020-12-19",
+    "avarage": 99,
+    "value": {
+      "customHeartRateZones": [],
+      "heartRateZones": [
+        {
+          "max": 99,
+          "min": 30,
+          "name": "Out of Range"
+        },
+        {
+          "max": 139,
+          "min": 99,
+          "name": "Fat Burn"
+        },
+        {
+          "max": 169,
+          "min": 139,
+          "name": "Cardio"
+        },
+        {
+          "max": 220,
+          "min": 169,
+          "name": "Peak"
+        }
+      ]
+    }
+  }
+]
